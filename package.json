@@ -1,0 +1,19 @@
+{
+  "name": "react_webpack_starter",
+  "version": "1.0.0",
+  "description": "boilerplate for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arrayoutofbounds/react_webpack_starter.git"
+  },
+  "author": "anmol desai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arrayoutofbounds/react_webpack_starter/issues"
+  },
+  "homepage": "https://github.com/arrayoutofbounds/react_webpack_starter#readme"
+}
